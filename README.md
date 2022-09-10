@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harsh Jain
-- 👀 I’m interested in coding and always giving a try to new problems
+- 👀 I’m interested in coding and always love to give a try to the new problems
 - 🌱 I’m currently learning backend development.
 - 📫 You can reach out to me at https://www.linkedin.com/in/harsh-jain-92b67b20a/
 
