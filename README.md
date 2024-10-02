@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harsh Jain
-- 👀 I’m interested in coding and always love to give a try to the new problems
-- 🌱 I’m currently learning backend development.
+- 👀 I’m interested in solving real world problems through my innovative ideas and their implementation.
+- 🌱 I’m currently Backend Intern at Staqu Technologies.
 - 📫 You can reach out to me at https://www.linkedin.com/in/harsh-jain-92b67b20a/
 
 <!---
